@@ -9,7 +9,7 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.tech</groupId>
+	<groupId>com.javatechie</groupId>
 	<artifactId>spring-jenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-jenkins</name>
