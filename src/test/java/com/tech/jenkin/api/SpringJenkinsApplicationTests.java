@@ -1,4 +1,4 @@
-package com.javatechie.jenkin.api;
+package com.tech.jenkin.api;
 
 import static org.junit.Assert.assertEquals;
 
